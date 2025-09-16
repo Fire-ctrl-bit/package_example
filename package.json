@@ -1,5 +1,5 @@
 {
-  "name": "package_example",
+  "name": "@Fire-ctrl-bit/package_example",
   "version": "1.0.0",
   "description": "学习github的package",
   "main": "index.js",
@@ -12,7 +12,6 @@
   },
   "author": "",
   "license": "ISC",
-  "publishConfig":{"@Fire-ctrl-bit:registry":"https://npm.pkg.github.com"},
   "bugs": {
     "url": "https://github.com/Fire-ctrl-bit/package_example/issues"
   },
